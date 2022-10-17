@@ -107,7 +107,7 @@ Närmare bestämt docker host attacker
 
 - Vi kommer inte att ha en lång genomgång av vad docker är, men det är ett verktyg för paketera mjukvara för utveckling, testning och även deployment
 
-- För den som vill göra en liten refresher så hänvisar vi till an3lls eminenta intro till docker lab: https://github.com/an3ll/docker-introduction-lba
+- För den som vill göra en liten refresher så hänvisar vi till an3lls eminenta intro till docker lab: https://github.com/an3ll/docker-introduction-lab
 
 ---
 
